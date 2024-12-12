@@ -1,2 +1,2 @@
 # B303-deneme
-This is our first project
+This is our first project test
